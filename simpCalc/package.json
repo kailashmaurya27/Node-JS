@@ -1,0 +1,11 @@
+{
+  "name": "simp-xyz-calc",
+  "version": "1.0.0",
+  "description": "This is a simple calculator which do operations like addition, subtraction, multiplication and division.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kailash",
+  "license": "ISC"
+}
